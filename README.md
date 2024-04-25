@@ -1,16 +1,19 @@
-### Hi there 👋
+#### 👋 Hi there
 
-<!--
-**vm-001/vm-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From the moment I produced "Hello World" in the console of my first application, I knew I was hooked into the world of software development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 7 years of software development experience across different fields, such as e-commerce, enterprise SaaS, and API Gateway. Over the past years, I
+
+-   break down monolithic systems into microservices
+-   implement a RPC framework based on JSON-RPC protocol
+-   design database desensitization to meet GDPR compliance
+-   develop billing system using Stripe
+-   develop distributed tracing
+
+I'm currently hooked on application observability, and learning tracing and profiling.
+
+#### About Me
+
+- I hate learning new programming languages, but I write Go, Lua, Java, Rust, HTML/JavaScript/CSS
+- I love building products
