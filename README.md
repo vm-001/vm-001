@@ -23,3 +23,7 @@ I'm currently hooked on application observability, and learning tracing and prof
 #### Maintaining Projects
 - [lua-radix-router](https://github.com/vm-001/lua-radix-router) A lightweight high-performance and radix tree based router.
 - [lua-jsonschema-mocker](https://github.com/vm-001/lua-jsonschema-mocker) JSONSchema mocker for Lua/LuaJIT
+
+#### Incubating Projects (Looking for someone to work together)
+- X-Balancing: A balancing toolkit
+- X-Agent: Lua application agent for profiling
