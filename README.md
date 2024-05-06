@@ -20,6 +20,10 @@ I'm currently hooked on application observability, and learning tracing and prof
 - I call myself an investor
 - I like chatting with strangers
 
+#### Posts
+
+- [Stepping debug NGINX](https://github.com/vm-001/nginx/blob/nginx-debug/docs/markdown/debug-nginx-on-vscode.md)
+
 #### Maintaining Projects
 - [lua-radix-router](https://github.com/vm-001/lua-radix-router) A lightweight high-performance and radix tree based router.
 - [lua-jsonschema-mocker](https://github.com/vm-001/lua-jsonschema-mocker) JSONSchema mocker for Lua/LuaJIT
