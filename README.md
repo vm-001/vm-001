@@ -27,7 +27,7 @@ I'm currently hooked on application observability, and learning tracing and prof
 - [Why I don't like Tim Cook](https://vm0x00.com/posts/tim-cook)
 
 #### Maintaining Projects
-- [lua-radix-router](https://github.com/vm-001/lua-radix-router) A lightweight high-performance and radix tree based router.
+- [lua-radix-router](https://github.com/vm-001/lua-radix-router) A lightweight high-performance and radix tree based router. (Top performance in opensource gateways [benchmark](https://github.com/vm-001/gateways-routing-benchmark))
 - [lua-jsonschema-mocker](https://github.com/vm-001/lua-jsonschema-mocker) JSONSchema mocker for Lua/LuaJIT
 - [learning-ebpf](https://github.com/vm-001/learning-ebpf)
 
